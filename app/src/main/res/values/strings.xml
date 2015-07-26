@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name= "today">Today, June 24</string>
+    <string name= "vinteum">21º</string>
+    <string name = "oito">8º</string>
+    <string name="action_settings">Settings</string>
+</resources>
